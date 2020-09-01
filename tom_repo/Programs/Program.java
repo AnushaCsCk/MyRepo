@@ -8,6 +8,7 @@ public class Program {
 
         
         System.out.println(isPalindrome(201));
+        System.out.println(isPalindrome(101));
     }
 
 
